@@ -5,10 +5,10 @@ requirements = [
     "fdm",
     "algebra>=1",
     "plum-dispatch>=2",
-    "backends>=1.4.11",
-    "backends-matrix>=1.2.11",
+    "backends",
+    "backends-matrix",
     "mlkernels>=0.3.6",
-    "wbml>=0.4.0",
+    "wbml",
 ]
 
 setup(
